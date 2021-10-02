@@ -1,8 +1,6 @@
-// C program to find factorial of given number
-#include <stdio.h
- 
-// function to find factorial of given number
-unsigned int factorial(unsigned int n)
+#include <stdio.h>
+
+unsigned int factorial(unsigned int n) // function to find factorial of given number
 {
     if (n == 0)
         return 1;
