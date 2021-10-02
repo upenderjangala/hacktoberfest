@@ -1,3 +1,5 @@
+// Function to find the factorial of n
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -9,7 +11,7 @@ int factorial(int n)
 }
 
 int main()
-{
+{ 
     int n;
     cin >> n;
     cout << factorial(n) << endl;
