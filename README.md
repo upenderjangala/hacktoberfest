@@ -1,5 +1,4 @@
 # Hacktoberfest
-___
 Hello Hackers! It's friendly every-year repository for hacktoberfest. Everyone can use this repository to get their favorite T-shirt.
 
 ## What is Hacktoberfest?
