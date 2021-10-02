@@ -2,7 +2,6 @@
 #include <iostream>  /// for I/O operations
 #include <memory>    /// for dynamic memory
 #include <new>       /// for managing  dynamic storage
-This conversation was marked as resolved by Tishasoumya-02
 
 namespace data_structures {
 
@@ -107,14 +106,6 @@ int32_t list::traverse(int index) {
 }  // namespace data_structures
 
 static void test() {
-This conversation was marked as resolved by Panquesito7
- 
-@Panquesito7 Panquesito7 25 days ago Member
-Suggested change 
-static void test() {
-
-static void test() {
-@Lazeeez	Reply…
     data_structures::linked_list::list L;
     // 1st test
     L.insert(11);
